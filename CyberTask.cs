@@ -1,4 +1,4 @@
-﻿namespace CybersecurityChatBot
+﻿namespace CybersecurityChatBot//Class that represents one task
 {
     public class CyberTask
     {
