@@ -137,7 +137,7 @@ namespace CybersecurityChatbot
             _currentIndex = 0;
             _score = 0;
         }
-
+        //Total questions in the cquisz
         public int TotalQuestions() => _questions.Count;
         public int CurrentIndex() => _currentIndex;
     }
