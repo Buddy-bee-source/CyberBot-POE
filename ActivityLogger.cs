@@ -27,7 +27,7 @@ namespace CybersecurityChatBot
 
             return result;
         }
-
+        // Counts the  number of actions logged and returns a summary of all actions
         public static string GetFullLog()
         {
             if (_log.Count == 0)
