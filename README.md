@@ -39,3 +39,4 @@ A WPF-based cybersecurity awareness chatbot that educates users about online saf
 -ActivityLogger.cs
 
 ## YouTube Link
+-https://youtu.be/tVyg3okB9WY?si=b9AOfOzF6T8kOhfx
